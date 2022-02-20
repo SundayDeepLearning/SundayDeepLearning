@@ -1,5 +1,5 @@
 # SundayDeepLearning
-This is for DeepLearning study
+This is for DeepLearning study  
 Date : Every Sunday.
 
 ----------------------
