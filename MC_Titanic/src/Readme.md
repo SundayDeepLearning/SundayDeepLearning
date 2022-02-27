@@ -25,3 +25,5 @@
 * Fare : 티켓의 요금
 * Cabin : 객실번호
 * Embarked : 배에 탑승한 항구 이름 ( C = Cherbourn, Q = Queenstown, S = Southampton)
+
+### 데이터 분석
